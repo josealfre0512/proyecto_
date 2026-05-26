@@ -1,6 +1,6 @@
 #NUevo proyecto
 
-Este es el backend central desarrollado en Node.js, TypeScript y Express para la gestión, control y automatización de los cuatro tipos de formularios de proyectos del PNF en Informática. La persistencia de datos se realiza en una base de datos NoSQL (MongoDB Atlas).
+Este es el backend central desarrollado en Node.js, TypeScript y Express para la gestión, control y automatización de los cuatro tipos de formularios. La persistencia de datos se realiza en una base de datos NoSQL (MongoDB Atlas).
 
 ---
 
